@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5zRZgF9ret2" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Bangladesh Labor Law S1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Bangladesh_Labor_Law_S1_ORG">
+    <organization identifier="Bangladesh_Labor_Law_S1_ORG">
+      <title>Bangladesh Labor Law S1</title>
+      <item identifier="Bangladesh_Labor_Law_SCO" isvisible="true" identifierref="__5zRZgF9ret2_RES">
+        <title>Bangladesh Labor Law S1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5zRZgF9ret2_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/60TyYnFoBaA_P_0_0_2048_1152_DX2560_DY2560_CX1919_CY1080.jpg" />
+      <file href="mobile/6pTlVYVh3dg_P_3_143_2071_1128_DX2560_DY2560_CX1920_CY1046.jpg" />
+      <file href="mobile/5pH0UUp7SLg_B-10_C20_RDCE6F2_DX2326_DY2326_CX1744_CY872.jpg" />
+      <file href="mobile/6SRHLpgdHPz_DX1272_DY1272_CX325_CY926.png" />
+      <file href="mobile/5WbpQT4jVkY_P_0_73_1864_938_DX2560_DY2560_CX1747_CY880.jpg" />
+      <file href="mobile/6ZEYNOVn6Qp_DX722_DY722_CX541_CY434.png" />
+      <file href="mobile/66wyUMjtoN0_DX706_DY706_CX529_CY431.png" />
+      <file href="mobile/6hsnOqNreKx_DX826_DY826_CX619_CY510.png" />
+      <file href="mobile/5WbpQT4jVkY_P_0_73_1867_938_DX2560_DY2560_CX1750_CY880.jpg" />
+      <file href="mobile/6NalxDXCUqd_P_794_0_1115_1026_DX2562_DY2562_CX664_CY611.png" />
+      <file href="mobile/6hRCKapjkzV_P_1255_0_744_867_DX2656_DY2656_CX506_CY589.png" />
+      <file href="mobile/6BRuorWYKvM_P_0_0_1874_1152_DX2560_DY2560_CX1757_CY1080.jpg" />
+      <file href="mobile/6B6eC1TsQzL_C-10_RE6E0EC_P_0_0_1845_1138_DX2576_DY2576_CX1741_CY1073.jpg" />
+      <file href="mobile/5oRTmYgfrX8_DX1212_DY1212_CX293_CY909.png" />
+      <file href="mobile/5xvxZ7L3vUY_P_0_0_1459_909_DX3264_DY3264_CX1459_CY910.jpg" />
+      <file href="mobile/6XKfpRqW2H3_DX1080_DY1080_CX284_CY810.png" />
+      <file href="mobile/5XhlVTL03FD_P_0_72_2048_1266_DX2328_DY2328_CX1746_CY1080.jpg" />
+      <file href="mobile/6N1yYpiooU5_DX1132_DY1132_CX267_CY849.png" />
+      <file href="mobile/5fnpW1lmGPB_P_0_0_940_663_DX1272_DY1272_CX321_CY226.png" />
+      <file href="mobile/6SRHLpgdHPz_P_0_0_982_663_DX1272_DY1272_CX335_CY226.png" />
+      <file href="mobile/69PJ8yKfJ42_DX1132_DY1132_CX339_CY849.png" />
+      <file href="mobile/6I72oRX4VOV_DX1080_DY1080_CX252_CY810.png" />
+      <file href="mobile/6Xzgfd26kpc_RCCC1DA_P_0_0_1834_1138_DX2592_DY2592_CX1741_CY1080.jpg" />
+      <file href="mobile/6Qs1oi2zA2W_DX1370_DY1370_CX324_CY1027.png" />
+      <file href="mobile/5hmBLfBXrvq_DX1348_DY1348_CX538_CY1011.png" />
+      <file href="mobile/6pixbAnuwdi_DX1370_DY1370_CX400_CY1025.png" />
+      <file href="mobile/5lWUWCk8plv_P_0_219_999_663_DX1926_DY1926_CX1000_CY664.png" />
+      <file href="mobile/6SRHLpgdHPz_P_171_0_635_663_DX1272_DY1272_CX182_CY190.png" />
+      <file href="mobile/6IwhpJaPYgv_B-30_C40_DX196_DY196_CX147_CY54.png" />
+      <file href="mobile/5tTwJQmHDfq_DX2560_DY2560_CX1610_CY905.jpg" />
+      <file href="story_content/WebObjects/5qPoZeOiSFH/BLL2006.pdf" />
+      <file href="story_content/WebObjects/5qPoZeOiSFH/BLL2015.pdf" />
+      <file href="story_content/WebObjects/5qPoZeOiSFH/code.txt" />
+      <file href="story_content/WebObjects/5qPoZeOiSFH/rule2015.html" />
+      <file href="story_content/WebObjects/5qPoZeOiSFH/rule2015.html.txt" />
+      <file href="mobile/5qPoZeOiSFH6RZnm0dIHr1{Width=1145, Height=619}Light_DX2290_DY2290_CX1145_CY619.jpg" />
+      <file href="mobile/6iGjvJUVemM_RCCC1DA_P_76_0_1945_1095_DX2694_DY2694_CX1919_CY1080.jpg" />
+      <file href="mobile/6bcd85wxw80_DX1044_DY1044_CX783_CY783.png" />
+      <file href="meta.xml" />
+      <file href="story_content/5WXaaLuawa6.jpg" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape5WWya3YVVKZ.png" />
+      <file href="mobile/Shape6c5x4v1pF7K.png" />
+      <file href="mobile/Shape5prW3Q8shkJ.png" />
+      <file href="mobile/Shape6NObJIFLlZW.png" />
+      <file href="mobile/Shape5ifgeF86mhh.png" />
+      <file href="mobile/Shape6S4JPO46zre.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gqLTQcS0nG.js" />
+      <file href="html5/data/js/5k1vxXSfL8G.js" />
+      <file href="html5/data/js/5kFCYGvZfyX.js" />
+      <file href="html5/data/js/5ncar3zWe0K.js" />
+      <file href="html5/data/js/5qeZ22cEFGI.js" />
+      <file href="html5/data/js/5tpTAVqd3DM.js" />
+      <file href="html5/data/js/61bloh3KjP5.js" />
+      <file href="html5/data/js/6CFpj8JyY8K.js" />
+      <file href="html5/data/js/6CNKcFa0XUh.js" />
+      <file href="html5/data/js/6DA3snofY6M.js" />
+      <file href="html5/data/js/6FP0BmwVCsU.js" />
+      <file href="html5/data/js/6FYNtZN8OsQ.js" />
+      <file href="html5/data/js/6GV4wF5alaA.js" />
+      <file href="html5/data/js/6hZqwO0H0Ce.js" />
+      <file href="html5/data/js/6J9NQplpjPV.js" />
+      <file href="html5/data/js/6JuilQKJdYC.js" />
+      <file href="html5/data/js/6MCVRPpOQlB.js" />
+      <file href="html5/data/js/6WG1pyafq2y.js" />
+      <file href="html5/data/js/6ZMWFmSuXXb.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
